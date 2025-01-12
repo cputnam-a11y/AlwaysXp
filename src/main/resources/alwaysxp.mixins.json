@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "alwaysxp.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"LivingEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"minMixinExtrasVersion": "0.5.0-beta.4"
+}
