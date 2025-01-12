@@ -3,15 +3,14 @@
 	"id": "alwaysxp",
 	"version": "${version}",
 	"name": "AlwaysXp",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "No Description Provided",
 	"authors": [
-		"Me!"
+		"cputnam-a11y"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/cputnam-a11y/AlwaysXp"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/alwaysxp/icon.png",
 	"environment": "*",
 	"entrypoints": {
